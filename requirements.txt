@@ -1,2 +1,2 @@
-mysqlclient==1.6.7
-SQLAlchemy==1.4.42
+mysqlclient
+SQLAlchemy
